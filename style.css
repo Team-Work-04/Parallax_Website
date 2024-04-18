@@ -61,20 +61,22 @@ html {
   color: #fff;
   background-color: black;
 
-  padding: 2rem;
   border-top-left-radius: 2rem;
   border-bottom-right-radius: 2rem;
-
-  outline: 0.5rem inset purple;
-  outline-offset: 0.6rem;
 }
 
 .option1 {
   text-transform: uppercase;
+  outline: 0.5rem inset purple;
+  outline-offset: 0.6rem;
+  padding: 2rem;
 }
 
 .option2 {
   text-transform: capitalize;
+  outline: 0.5rem inset purple;
+  outline-offset: 0.2rem;
+  padding: 0.7rem;
 }
 
 .logo {
