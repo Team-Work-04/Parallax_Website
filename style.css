@@ -82,3 +82,19 @@ html {
 }
 
 /* Text */
+
+.part {
+  text-align: center;
+  padding: 3rem 5rem;
+  line-height: 1.8rem;
+}
+
+.part-light {
+  background-color: rgb(241, 241, 241);
+  color: #666;
+}
+
+.part-dark {
+  background-color: #282e34;
+  color: #ddd;
+}
