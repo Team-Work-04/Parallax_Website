@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.commen{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.7;
+}
+.first-page{
+    background-image: url(/img/bg.jpg);
+    height: 100%;
+    
+}
+.second-page{
+    background-image: url(/img/bg2.jpg);
+    height: 80%;
+}
+
+.thirth-page{
+    background-image: url(/img/bg3.jpg);
+    height: 80%;
+}
+
+.fourth-page{
+    background-image: url(img/bg4.jpg);
+    height: 80%;
+}
+
+.fifth-page{
+    background-image: url(img/bg1.jpg);
+    height: 80%;
+}
+
+.header{
+    font-size: 3rem;
+    font-family: "Lato", sans-serif;
+}
